@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-**Thinkspace** is just another minimalist Jekyll theme that focuses on technical writing. Designed for engineers to write their ranting and findings.
+**機械学習** 系の勉強会とかしてます
+
+[手塚研究室](http://xi.kc.tsukuba.ac.jp/)
+
+[若林研究室](http://wkblab.github.io/)
