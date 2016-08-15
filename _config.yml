@@ -27,11 +27,13 @@ sass:
   sass_dir: assets/scss
   style: compressed # expanded
 
+permalink: /:year/:month/:title
+
 # Author settings
 author:
   # name     : ""
   # job      : "R&D Software Engineer"
-  bio      : "機械学習の日程とか"
+  bio      : "機械学習系の研究室の勉強会やゼミの日程をお知らせします"
   # thumb    : /images/author.jpg
   # email    : hnrird@gmail.com
   # url      : http://heiswayi.github.io
