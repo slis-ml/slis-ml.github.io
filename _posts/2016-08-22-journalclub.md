@@ -58,6 +58,6 @@ comments: false
 
 | 発表者 | 論文名/会議名 | スライド等 |
 |--------|---------------|------------|
-| 野沢 | [Topic Modeling of Short Texts: A Pseudo-Document View](http://www.kdd.org/kdd2016/subtopic/view/topic-modeling-of-short-texts-a-pseudo-document-view) (KDD2016)| |
+| 野沢 | [Topic Modeling of Short Texts: A Pseudo-Document View](http://www.kdd.org/kdd2016/subtopic/view/topic-modeling-of-short-texts-a-pseudo-document-view) (KDD2016)| [資料](http://nzw0301.github.io/2016/08/ptm)|
 | 福田 | | |
 | 山田 | | |
