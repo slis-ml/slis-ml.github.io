@@ -25,7 +25,7 @@ comments: false
 約15分程度で紹介してもらいます．
 紹介の方法は，スライド，板書，ブログ記事など特に問いません．
 
-- - - 
+- - -
 
 ## 参加する場合
 
@@ -39,20 +39,20 @@ comments: false
 
 開催場所に直接来てください．事前に登録などは不要です．
 
-- - - 
+- - -
 
 ## 日時
 
 2016年08月23日(火) 15:00~ (22日が台風のため1日延期しました)
 
 
-- - - 
+- - -
 
 ## 場所
 
 7D230
 
-- - - 
+- - -
 
 ## 発表内容
 
@@ -61,4 +61,4 @@ comments: false
 |--------|---------------|------------|
 | 野沢 | [Topic Modeling of Short Texts: A Pseudo-Document View](http://www.kdd.org/kdd2016/subtopic/view/topic-modeling-of-short-texts-a-pseudo-document-view) (KDD2016)| [資料](http://nzw0301.github.io/2016/08/ptm)|
 | 福田 | | |
-| 山田 | | |
+| 山田 | [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) (ECCV 2016)| |
