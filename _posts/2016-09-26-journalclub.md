@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "第3回最新トップカンファレンス論文読み会"
+date: 2016-09-26 15:00:00 +0900
+locate: 7D230
 comments: false
 ---
 
@@ -43,14 +45,13 @@ comments: false
 
 ## 日時
 
-2016年09月26日(月) 15:00~ 
-
+{{ page.date | date_to_rfc822 }}
 
 - - -
 
 ## 場所
 
-7D230
+{{ page.locate}}
 
 - - -
 
