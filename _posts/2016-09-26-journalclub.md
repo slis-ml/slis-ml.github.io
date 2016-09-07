@@ -63,4 +63,4 @@ comments: false
 | 野沢 | | |
 | 福田 | | |
 | 山田 | | |
-| 平松 | Relations such as Hypernymy: Identifying and Exploiting Hearst Patterns in Distributional Vectors for Lexical Entailment / EMNLP | |
+| 平松 | [Relations such as Hypernymy: Identifying and Exploiting Hearst Patterns in Distributional Vectors for Lexical Entailment](https://arxiv.org/abs/1605.05433) / EMNLP | |
