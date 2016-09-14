@@ -1,7 +1,7 @@
 # jekyllを使用してHPを作成しました．
 
 - `about.md` : このHPの概要
-- `_posts/` : ゼミや勉強会を1単位としたページ
+- `_posts/` : ゼミや勉強会を1単位としたページを格納
 
 
 # usage
@@ -26,6 +26,11 @@ $ bundle exec jekyll server # localhostを立ち上げて確認
 
 
 ##### 編集してから反映させます
+
+新しく投稿する場合は，[テンプレ](https://github.com/slis-ml/slis-ml.github.io/blob/4cc2303e1b859543809e098dcab7f19ff3b4147c/_post_template/2016-01-01-awesome_post.md)を参考にしてみてください．
+これは，将来的には`feed.xml`をみてgoogle calendarに自動登録することをしたいので， `_post/*.md`のフィールドは統一したいと考えています．
+
+作成や編集が終わったら以下のコマンドを実行します．
 
 ```
 $ git add .
