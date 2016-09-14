@@ -2,6 +2,7 @@
 layout: post
 title: "第1回合同ゼミ"
 comments: false
+date: 2016-10-03 18:30:00
 ---
 
 ## 概要
@@ -10,7 +11,8 @@ comments: false
 
 ## 日時
 
-2016年10月03日 18:30~
+{{ page.date | date: "%F %R %A"}}
+
 
 <!-- 
 ## 場所
