@@ -60,6 +60,6 @@ comments: false
 
 | 発表者 | 論文名/会議名 | スライド等 |
 |--------|---------------|------------|
-| 野沢 | [Alternative structures for character-level RNNs](https://research.facebook.com/publications/alternative-structures-for-character-level-rnns/) / ICLR| |
+| 野沢 | [Alternative structures for character-level RNNs](https://research.facebook.com/publications/alternative-structures-for-character-level-rnns/) / ICLR| [資料](http://nzw0301.github.io/2016/09/AlternativeStructuresForCharacterLevelRNNs) |
 | 福田 | | |
 | 平松 | [Relations such as Hypernymy: Identifying and Exploiting Hearst Patterns in Distributional Vectors for Lexical Entailment](https://arxiv.org/abs/1605.05433) / EMNLP | |
