@@ -60,7 +60,7 @@ comments: false
 
 | 発表者 | 論文名/会議名 | スライド等 |
 |--------|---------------|------------|
-| 野沢 | | |
+| 野沢 | [On Sampling Nodes in a Network](http://www2016.net/proceedings/proceedings/p471.pdf) / WWW | |
 | 福田 | | |
 | 福田 | | |
 | 山田 | | |
