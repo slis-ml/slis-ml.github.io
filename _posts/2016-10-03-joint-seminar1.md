@@ -2,6 +2,7 @@
 layout: post
 title: "第1回合同ゼミ"
 comments: false
+locate: 情報メディアユニオン1F
 date: 2016-10-03 18:30:00
 ---
 
@@ -14,9 +15,10 @@ date: 2016-10-03 18:30:00
 {{ page.date | date: "%F %R %A"}}
 
 
-<!-- 
 ## 場所
 
+{{ page.locate}}
 
 ## 発表者
- -->
+
+未定
