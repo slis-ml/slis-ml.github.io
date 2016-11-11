@@ -60,9 +60,6 @@ comments: false
 
 | 発表者 | 論文名/会議名 | スライド等 |
 |--------|---------------|------------|
-| 野沢 | [On Sampling Nodes in a Network](http://www2016.net/proceedings/proceedings/p471.pdf) / WWW | |
-| 福田 | | |
-| 福田 | | |
-| 山田 | | |
-| 山田 | | |
-| 平松 | | |
+| 野沢 | [Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change](https://arxiv.org/abs/1606.02821) / EMNLP | [ブログ](http://nzw0301.github.io/2016/10/CulturalShiftorLinguisticDriftComparingTwoComputationalMeasuresofSemanticChange)
+| 山田 | [Sky is not the limit: semantic-aware sky replacement](http://dl.acm.org/citation.cfm?id=2925942)| |
+| 平松 | [Improving Hypernymy Detection with an Integrated Path-based and Distributional Method](https://www.aclweb.org/anthology/P/P16/P16-1226.pdf) | [スライド](https://speakerdeck.com/himkt/improving-hypernymy-detection-with-an-integrated-path-based-and-distributional-method) |
