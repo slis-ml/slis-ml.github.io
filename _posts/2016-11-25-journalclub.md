@@ -63,4 +63,4 @@ comments: false
 | 野沢 | | |
 | 福田 | | |
 | 山田 | | |
-| 平松 | | |
+| 平松 | [Conditional Random Fields as Recurrent Neural Networks](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html) / ICCV2015 | [ポスター](https://drive.google.com/file/d/0B0DinS1-IaQJT01GYllyY1NmREE/preview) |
