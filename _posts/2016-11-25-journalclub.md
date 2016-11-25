@@ -60,7 +60,6 @@ comments: false
 
 | 発表者 | 論文名/会議名 | スライド等 |
 |--------|---------------|------------|
-| 野沢 | | |
-| 福田 | | |
-| 山田 | | |
+| 野沢 | [The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](https://arxiv.org/abs/1611.00712) / arXiv| |
+| 山田 | [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431) / arXiv| |
 | 平松 | [Conditional Random Fields as Recurrent Neural Networks](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html) / ICCV2015 | [ポスター](https://drive.google.com/file/d/0B0DinS1-IaQJT01GYllyY1NmREE/preview) |
