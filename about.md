@@ -11,4 +11,6 @@ permalink: /about/
 
 が主催している合同ゼミや勉強会に関するページです．
 
-slackがあります．[ここ](https://docs.google.com/a/klis.tsukuba.ac.jp/forms/d/e/1FAIpQLScBy_8FeWmoVBKoO6lvx_U9zeZpfrhh1n5G3XhlmwctZJeOkw/viewform?c=0&w=1&usp=send_form)に必要用事項を記入すると管理者から招待メールが届きます．
+slackがあります．以下のGoogle Formに必要事項を記入すると管理者から招待メールが届きます．
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScBy_8FeWmoVBKoO6lvx_U9zeZpfrhh1n5G3XhlmwctZJeOkw/viewform?embedded=true" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
