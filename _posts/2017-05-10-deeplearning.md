@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deep Learning 輪講会"
-date: 2017-05-24 18:15:00
+date: 2017-06-07 18:15:00
 locate: 情報メディアユニオン1F
 comments: false
 ---
@@ -16,7 +16,7 @@ comments: false
 
 ## 内容・発表者
 
-- 6.3-6.4 野沢
+- 6.5-6.5.3 菊地
 
 - - -
 
@@ -35,6 +35,5 @@ comments: false
 
 # アーカイブ
 
-###  2017-05-10
-
 - 6.1-6.2 手塚
+- 6.3-6.4 野沢 [slide](https://speakerdeck.com/nzw0301/deep-learning-6-dot-3-6-dot-4)
