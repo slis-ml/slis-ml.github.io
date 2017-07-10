@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deep Learning 輪講会"
-date: 2017-07-10 14:00:00
+date: 2017-07-26 17:00:00
 locate: 情報メディアユニオン1F
 comments: false
 ---
@@ -16,7 +16,7 @@ comments: false
 
 ## 内容・発表者
 
-7.5-7.7 山田
+7.8-- 村松
 
 - - -
 
@@ -35,8 +35,9 @@ comments: false
 
 # アーカイブ
 
-- 6.1-6.2 手塚
-- 6.3-6.4 野沢 [slide](https://speakerdeck.com/nzw0301/deep-learning-6-dot-3-6-dot-4)
-- 6.5-6.5.3 菊地
-- 6.5.4-6.6 手塚
-- 7.1-7.4  河野 [slide](https://www.slideshare.net/ShinsakuKono/deep-learningbook-chap7)
+- 6.1--6.2 手塚
+- 6.3--6.4 野沢 [slide](https://speakerdeck.com/nzw0301/deep-learning-6-dot-3-6-dot-4)
+- 6.5--6.5.3 菊地
+- 6.5.4--6.6 手塚
+- 7.1--7.4  河野 [slide](https://www.slideshare.net/ShinsakuKono/deep-learningbook-chap7)
+7.5--7.7 山田
