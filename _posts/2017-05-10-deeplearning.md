@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deep Learning 輪講会"
-date: 2017-07-26 17:00:00
+date: 2017-05-10
 locate: 情報メディアユニオン1F
 comments: false
 ---
@@ -16,13 +16,13 @@ comments: false
 
 ## 内容・発表者
 
-7.8-- 村松
+TBD
 
 - - -
 
 ## 日時
 
-{{ page.date | date: "%F %R %A"}}
+TBD
 
 - - -
 
@@ -40,4 +40,6 @@ comments: false
 - 6.5--6.5.3 菊地
 - 6.5.4--6.6 手塚
 - 7.1--7.4  河野 [slide](https://www.slideshare.net/ShinsakuKono/deep-learningbook-chap7)
-7.5--7.7 山田
+- 7.5--7.7 山田
+- 7.8 村松
+- 7.9--7.13 平松 [slide](https://speakerdeck.com/himkt/deep-learninglun-du-7-dot-9-7-dot-13)

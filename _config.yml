@@ -1,4 +1,3 @@
-
 # SEO settings
 title: "Slis ML"
 # title2: "space" # default: ""
@@ -47,7 +46,7 @@ author:
 # twitter_card: "summary_large_image"
 # twitter_site: "@HeiswayiNrird"
 
-gems:
+plugins:
   - bourbon
   - jekyll-paginate
 
