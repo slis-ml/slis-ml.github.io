@@ -16,13 +16,14 @@ comments: false
 
 ## 内容・発表者
 
-TBD
+- 8章: 菊池
+- 11章: 野沢
 
 - - -
 
 ## 日時
 
-TBD
+11月7日(火) 18:30 ~
 
 - - -
 
@@ -31,7 +32,6 @@ TBD
 {{ page.locate}}
 
 - - -
-
 
 # アーカイブ
 
@@ -42,4 +42,5 @@ TBD
 - 7.1--7.4  河野 [slide](https://www.slideshare.net/ShinsakuKono/deep-learningbook-chap7)
 - 7.5--7.7 山田
 - 7.8 村松
-- 7.9--7.13 平松 [slide](https://speakerdeck.com/himkt/deep-learninglun-du-7-dot-9-7-dot-13)
+- 7.9--7.13 平松 [slide](https://speakerdeck.com/himkt/deep-learninglun-du-7-dot-9-7-dot-13), [slide](https://speakerdeck.com/himkt/deep-learninglun-du-7-dot-14)
+- 8.1 福田 [slide](https://speakerdeck.com/e_musu/deep-learning-book-8-dot-1)
