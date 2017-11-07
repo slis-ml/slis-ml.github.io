@@ -16,14 +16,14 @@ comments: false
 
 ## 内容・発表者
 
-- 8章: 菊池
-- 11章: 野沢
+- 9章: 山田
+- 10章: 平松
 
 - - -
 
 ## 日時
 
-11月7日(火) 18:30 ~
+11月21日(火) 18:30 ~
 
 - - -
 
@@ -44,3 +44,5 @@ comments: false
 - 7.8 村松
 - 7.9--7.13 平松 [slide](https://speakerdeck.com/himkt/deep-learninglun-du-7-dot-9-7-dot-13), [slide](https://speakerdeck.com/himkt/deep-learninglun-du-7-dot-14)
 - 8.1 福田 [slide](https://speakerdeck.com/e_musu/deep-learning-book-8-dot-1)
+- 8.2 -- 菊池 [slide](https://www.slideshare.net/ssuser0d111d/deep-learning-book-8283)
+- 11 -- 野沢 [slide](https://speakerdeck.com/nzw0301/deep-learning-book-11-practical-methodology)
