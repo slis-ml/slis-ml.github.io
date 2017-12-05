@@ -17,13 +17,13 @@ comments: false
 ## 内容・発表者
 
 - 8.3 -- : 菊池
-- 10 (all) : 平松
+- 10.2 -- : 平松
 
 ---
 
 ## 日時
 
-12月05日(火) 18:30 ~
+12月19日(火) 18:30 ~
 
 ---
 
@@ -54,3 +54,4 @@ comments: false
 - 8.2 -- 菊池 [slide](https://www.slideshare.net/ssuser0d111d/deep-learning-book-8283)
 - 11 -- 11.5 野沢 [slide](https://speakerdeck.com/nzw0301/deep-learning-book-11-practical-methodology)
 - 9 -- 9.2: 山田 [page](https://paper.dropbox.com/doc/8-Convolutional-Networks-Gn1ZsgLbxSZkezIucTdLN?_tk=share_copylink)
+- 10--10.2: 平松 [slide](https://speakerdeck.com/himkt/deep-learning-book-10)
