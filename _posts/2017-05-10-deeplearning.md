@@ -2,7 +2,7 @@
 layout: post
 title: "Deep Learning 輪講会"
 date: 2017-05-10
-locate: 情報メディアユニオン1F
+locate: 情報メディアユニオン3F
 comments: false
 ---
 
@@ -14,6 +14,8 @@ comments: false
 
 5章までは既知なことも多いのでとばしています．
 
+---
+
 ## 内容・発表者
 
 - 8.3 -- : 菊池
@@ -23,7 +25,7 @@ comments: false
 
 ## 日時
 
-12月19日(火) 18:30 ~
+12月19日(火) 18:30 -- 20:30
 
 ---
 
@@ -36,9 +38,9 @@ comments: false
 ## 今後予定
 
 - 9.2--: 山田
-- 15 Representation Learning: 野沢
+- 15--: 野沢
 
---- 
+---
 
 # アーカイブ
 
