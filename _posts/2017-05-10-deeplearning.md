@@ -2,7 +2,7 @@
 layout: post
 title: "Deep Learning 輪講会"
 date: 2017-05-10
-locate: 情報メディアユニオン3F
+locate: 情報メディアユニオン1F
 comments: false
 ---
 
@@ -18,14 +18,14 @@ comments: false
 
 ## 内容・発表者
 
-- 8.3 -- : 菊池
-- 10.2 -- : 平松
+- 8.6 -- : 菊池
+- 10.8 -- : 平松
 
 ---
 
 ## 日時
 
-12月19日(火) 18:30 -- 20:30
+01月29日(月) 18:30 -- 20:30
 
 ---
 
@@ -37,8 +37,8 @@ comments: false
 
 ## 今後予定
 
-- 9.2--: 山田
-- 15--: 野沢
+- 9.5 --: 山田
+- 18.2 --: 野沢
 
 ---
 
@@ -56,4 +56,5 @@ comments: false
 - 8.2 -- 菊池 [slide](https://www.slideshare.net/ssuser0d111d/deep-learning-book-8283)
 - 11 -- 11.5 野沢 [slide](https://speakerdeck.com/nzw0301/deep-learning-book-11-practical-methodology)
 - 9 -- 9.2: 山田 [page](https://paper.dropbox.com/doc/8-Convolutional-Networks-Gn1ZsgLbxSZkezIucTdLN?_tk=share_copylink)
-- 10--10.2: 平松 [slide](https://speakerdeck.com/himkt/deep-learning-book-10)
+- 10 --10.7: 平松 [slide](https://speakerdeck.com/himkt/deep-learning-book-10)
+- 18 --  野沢[slide](https://speakerdeck.com/nzw0301/deep-learning-book-18-confront-the-partition-function)
