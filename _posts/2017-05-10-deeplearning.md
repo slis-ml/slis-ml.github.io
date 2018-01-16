@@ -42,7 +42,7 @@ comments: false
 
 ---
 
-# アーカイブ
+# 過去資料
 
 - 6.1--6.2 手塚
 - 6.3--6.4 野沢 [slide](https://speakerdeck.com/nzw0301/deep-learning-6-dot-3-6-dot-4)
@@ -56,5 +56,6 @@ comments: false
 - 8.2 -- 菊池 [slide](https://www.slideshare.net/ssuser0d111d/deep-learning-book-8283)
 - 11 -- 11.5 野沢 [slide](https://speakerdeck.com/nzw0301/deep-learning-book-11-practical-methodology)
 - 9 -- 9.2: 山田 [page](https://paper.dropbox.com/doc/8-Convolutional-Networks-Gn1ZsgLbxSZkezIucTdLN?_tk=share_copylink)
-- 10 --10.7: 平松 [slide](https://speakerdeck.com/himkt/deep-learning-book-10)
-- 18 --  野沢[slide](https://speakerdeck.com/nzw0301/deep-learning-book-18-confront-the-partition-function)
+- 9.3 -- 9.4 山田 [slide](https://speakerdeck.com/mtjuney/deeplearningbook-9-dot-3-9-dot-4)
+- 10 -- 10.7: 平松 [slide](https://speakerdeck.com/himkt/deep-learning-book-10)
+- 18 -- 野沢 [slide](https://speakerdeck.com/nzw0301/deep-learning-book-18-confront-the-partition-function)
